@@ -43,5 +43,5 @@ Identificar el comportamiento de los usuarios dentro de la aplicación de la emp
 
 ## :pencil: **Notas Adicionales**
 
-:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/Proyecto_11_test_A_A_B_tienda_en_linea/blob/main/sprint_11_proyecto_evaluado.ipynb
+:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/Proyecto_11_test_A_A_B_tienda_en_linea/blob/main/notebooks/sprint_11_proyecto_evaluado.ipynb
 
